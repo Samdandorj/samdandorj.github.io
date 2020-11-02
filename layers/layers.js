@@ -64,7 +64,7 @@ var lyr_road_3 = new ol.layer.Vector({
     title: 'road<br />\
     <img src="styles/legend/road_3_0.png" /> Primary<br />\
     <img src="styles/legend/road_3_1.png" /> Secondary<br />\
-    <img src="styles/legend/road_3_2.png" /> 5<br />'
+    <img src="styles/legend/road_3_2.png" /> Other<br />'
         });
 var format_settlement_4 = new ol.format.GeoJSON();
 var features_settlement_4 = format_settlement_4.readFeatures(json_settlement_4, 
